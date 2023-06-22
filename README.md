@@ -14,7 +14,11 @@ Java-based web application deployed on AWS using EC2, S3, Tomcat, Auto Scaling, 
 - Spring Data JPA
 - Maven
 - JSP
+- Tomcat
 - MySQL
+- Memcached
+- Rabbitmq
+- ElasticSearch
 # Database
 Here,we used Mysql DB 
 sql dump file:
